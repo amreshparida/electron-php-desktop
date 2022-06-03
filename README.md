@@ -12,5 +12,5 @@ npm install
 # Run the app
 npm start
 
-#To build release application
+# To build release application
 npm run package-win
