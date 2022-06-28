@@ -4,9 +4,8 @@
 <h1 align="center"><b>electron-php-desktop</b></h1>
 </p>
 
+# Introduction:
 Create Desktop application using PHP
-
-# To get started:
 
 # Clone this repository
 git clone https://github.com/amreshparida/electron-php-desktop
