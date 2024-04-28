@@ -1,0 +1,74 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug log from npm
+npm-debug.log*
+
+# Yarn log
+yarn-debug.log
+yarn-error.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Backup files
+*~
+*.swp
+
+# Distribution / packaging
+dist/
+out/
+release/
+*.log
+electron-packager/
+electron-builder-out/
+*.lock
+
+# Platform-specific ignores:
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Desktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+
+# Linux specific
+.directory
+.Trash-*
+
+# Specific to Electron-builder
+/.cache/
+/.quasar/
+*.log
+.history/
